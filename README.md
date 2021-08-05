@@ -3,6 +3,9 @@ Hello, Guys!  Myself Rahul Chouhan a Computer Science Engineering student.I have
 Here are some ideas to get you started:
 
 🔭 I’m currently working on software company
+
 🌱 I’m currently learning FullStack Web development
+
 👯 I’m open for freelance projects
+
 codingwithcolleague | Bloging | YouTube I have a youtube channel
